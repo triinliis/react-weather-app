@@ -1,0 +1,62 @@
+body {
+    background-image: url("wintery.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  .row {
+    color: grey;
+    text-align: center;
+  }
+  .maintext {
+    font-size: 150%;
+    font-family: "Gill Sans", sans-serif;
+    list-style: none;
+  }
+  .smalltext-max {
+    font-size: 100%;
+    font-family: "Gill Sans", sans-serif;
+  }
+  .smalltext-min {
+    font-size: 100%;
+    font-family: "Gill Sans", sans-serif;
+    color: white;
+  }
+  .smalltext-divider {
+    font-size: 100%;
+    font-family: "Gill Sans", sans-serif;
+  }
+  .bigweather {
+    padding: 1em;
+  }
+  .weather-app {
+    border: 1px solid white;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 30px;
+    max-width: 900px;
+    background-color: white;
+  }
+  .subtext {
+    color: grey;
+    text-align: center;
+  }
+  .below {
+    color: grey;
+    font-family: "Gill Sans", sans-serif;
+    margin: 0px 0px 0px 30px;
+  }
+  .below-name {
+    color: grey;
+    font-family: "Gill Sans", sans-serif;
+  }
+  .temp {
+    font-size: 130%;
+    font-family: "Gill Sans", sans-serif;
+  }
+  
+  .weather-forecast {
+    color: grey;
+    text-align: center;
+  }
+  
