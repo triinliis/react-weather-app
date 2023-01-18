@@ -5,9 +5,6 @@ import Current from "./Current";
 import Forecast from "./Forecast";
 import image from "./wintery.gif";
 import "./styles.css";
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
 
 export default function Weather() {
   return (
@@ -30,7 +27,7 @@ export default function Weather() {
         <br />
         <Forecast />
       </div>
-      <a href="https://github.com/triinliis/react-weather-app" target="_blank" class="below">Open-source code</a>
+      <a href="https://github.com/triinliis/react-weather-app" target="_blank" rel="noreferrer" class="below">Open-source code</a>
       <span class="below-name"> by Triin Liis Kuhlberg</span>
     </div>  
   );
