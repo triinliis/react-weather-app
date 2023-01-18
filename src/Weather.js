@@ -30,7 +30,7 @@ export default function Weather() {
         <br />
         <Forecast />
       </div>
-      <a href="https://github.com/triinliis/TL-weather-app.git" target="_blank" class="below">Open-source code</a>
+      <a href="https://github.com/triinliis/react-weather-app" target="_blank" class="below">Open-source code</a>
       <span class="below-name"> by Triin Liis Kuhlberg</span>
     </div>  
   );
